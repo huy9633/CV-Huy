@@ -12,13 +12,11 @@ html{
 }
 .container{
     width:1140px ;
-    height: 1000px ;
+    height: 1600px ;
     margin: 0 auto;
     background-color: rgba(0, 0, 0, 0.897);    
     padding: 10px 10px ;
-    padding-bottom: 275px;
-    
-    
+    padding-bottom: 125px;
     
 }
 
@@ -29,7 +27,7 @@ html{
 }
 .yolo1{
     width: 1140px;
-    height: 900px ;
+    height: 1350px ;
     background-color: rgb(232, 244, 250);
 }
 
@@ -68,13 +66,13 @@ li{
     margin-left: 150px;
     font-size: 20px;
 }
-.hocvan{
+.hocvan, .project{
     margin-left:100px;
     margin-top: 10px;
     font-size: 20px;
 }
 .yolo2{
-    margin-top: -900px;
+    margin-top: -1350px;
     height: 850px;
     margin-left: 550px;
     width: 590px;
@@ -185,7 +183,8 @@ a {
     vertical-align: middle;
   }
   .chiu{
-      background-color: rgb(60, 138, 184);
+    /* margin-top: 180px; */
+    background-color: rgb(60, 138, 184);
   }
   ::-webkit-scrollbar{
     width: 10px;
